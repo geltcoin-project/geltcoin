@@ -247,7 +247,7 @@
 #define LT_OBJDIR ".libs/"
 
 /* Define to the address where bug reports for this package should be sent. */
-#define PACKAGE_BUGREPORT "https://github.com/tyrianproject/geltcoin/issues"
+#define PACKAGE_BUGREPORT "https://github.com/geltcoin-project/geltcoin/issues"
 
 /* Define to the full name of this package. */
 #define PACKAGE_NAME "Geltcoin Core"

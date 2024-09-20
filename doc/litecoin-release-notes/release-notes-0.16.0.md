@@ -7,7 +7,7 @@ and performance improvements, as well as updated translations.
 
 Please report bugs using the issue tracker at GitHub:
 
-  <https://github.com/tyrianproject/geltcoin/issues>
+  <https://github.com/geltcoin-project/geltcoin/issues>
 
 To receive security and update notifications, please subscribe to:
 

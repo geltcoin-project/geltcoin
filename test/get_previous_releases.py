@@ -117,7 +117,7 @@ def download_binary(tag, args) -> int:
 
 
 def build_release(tag, args) -> int:
-    githubUrl = "https://github.com/tyrianproject/geltcoin"
+    githubUrl = "https://github.com/geltcoin-project/geltcoin"
     if args.remove_dir:
         if Path(tag).is_dir():
             shutil.rmtree(tag)

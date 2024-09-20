@@ -7,7 +7,7 @@ It is recommended to upgrade to this version.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/tyrianproject/geltcoin/issues>
+  <https://github.com/geltcoin-project/geltcoin/issues>
 
 Compatibility
 ==============
@@ -64,7 +64,7 @@ Testnet faucets can be located at:
 - http://testnet.geltcointools.com
 - http://testnet.thrasher.io
 
-Developers who require the new testnet blockchain paramaters can find them [here](https://github.com/tyrianproject/geltcoin/blob/0.13/src/chainparams.cpp#L214).
+Developers who require the new testnet blockchain paramaters can find them [here](https://github.com/geltcoin-project/geltcoin/blob/0.13/src/chainparams.cpp#L214).
 
 Credits
 =======

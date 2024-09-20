@@ -45,7 +45,7 @@ QString BitcoinUnits::longName(int unit)
     case BTC: return QString("GELTC");
     case mBTC: return QString("geltites");
     case uBTC: return QString("geltons");
-    case SAT: return QString("liteoshi");
+    case SAT: return QString("geltoshi");
     default: return QString("???");
     }
 }

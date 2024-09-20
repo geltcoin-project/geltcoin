@@ -66,7 +66,7 @@ brew install berkeley-db4
 
 1. Clone the Geltcoin Core source code:
     ```shell
-    git clone https://github.com/tyrianproject/geltcoin
+    git clone https://github.com/geltcoin-project/geltcoin
     cd geltcoin
     ```
 

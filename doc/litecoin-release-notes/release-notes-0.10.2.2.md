@@ -7,7 +7,7 @@ updates. It is recommended to upgrade to this version.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/tyrianproject/geltcoin/issues>
+  <https://github.com/geltcoin-project/geltcoin/issues>
 
 Upgrading and downgrading
 =========================

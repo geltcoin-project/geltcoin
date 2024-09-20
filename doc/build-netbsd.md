@@ -22,7 +22,7 @@ libtool
 pkg-config
 python37
 
-git clone https://github.com/tyrianproject/geltcoin.git
+git clone https://github.com/geltcoin-project/geltcoin.git
 ```
 
 See [dependencies.md](dependencies.md) for a complete overview.

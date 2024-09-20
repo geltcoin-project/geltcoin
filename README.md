@@ -1,7 +1,7 @@
 Geltcoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/tyrianproject/geltcoin.svg?branch=master)](https://travis-ci.org/tyrianproject/geltcoin)
+[![Build Status](https://travis-ci.org/geltcoin-project/geltcoin.svg?branch=master)](https://travis-ci.org/geltcoin-project/geltcoin)
 
 https://geltcoin.org
 
@@ -27,10 +27,10 @@ Development Process
 -------------------
 
 The `master` branch is regularly built (see `doc/build-*.md` for instructions) and tested, but it is not guaranteed to be
-completely stable. [Tags](https://github.com/tyrianproject/geltcoin/tags) are created
+completely stable. [Tags](https://github.com/geltcoin-project/geltcoin/tags) are created
 regularly from release branches to indicate new official, stable release versions of Geltcoin Core.
 
-The https://github.com/tyrianproject/gui repository is used exclusively for the
+The https://github.com/geltcoin-project/gui repository is used exclusively for the
 development of the GUI. Its master branch is identical in all monotree
 repositories. Release branches and tags do not exist, so please do not fork
 that repository unless it is for development reasons.

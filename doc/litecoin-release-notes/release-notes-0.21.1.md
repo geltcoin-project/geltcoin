@@ -7,7 +7,7 @@ In this update to Geltcoin Core, Taproot has been activated, enhancing Geltcoin�
 
 Geltcoin Core 0.21.1 is available now, right here: <https://download.geltcoin.org/geltcoin-0.21.1/>.
 
-As always, we welcome the expertise of the community. To report bugs please use the issue tracker at GitHub - <https://github.com/tyrianproject/geltcoin/issues > - and to get security and update notifications subscribe via <https://groups.google.com/forum/#!forum/geltcoin-dev>. 
+As always, we welcome the expertise of the community. To report bugs please use the issue tracker at GitHub - <https://github.com/geltcoin-project/geltcoin/issues > - and to get security and update notifications subscribe via <https://groups.google.com/forum/#!forum/geltcoin-dev>. 
 
 Anyone can contribute to Geltcoin Core. Please scroll down to ‘How to contribute to Geltcoin Core’ for details.
 

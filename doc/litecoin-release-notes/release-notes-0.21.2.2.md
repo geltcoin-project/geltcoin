@@ -6,7 +6,7 @@ This is a new patch version release that includes important security updates.
 
 Please report bugs using the issue tracker at GitHub:
 
-  <https://github.com/tyrianproject/geltcoin/issues>
+  <https://github.com/geltcoin-project/geltcoin/issues>
 
 Notable changes
 ===============
